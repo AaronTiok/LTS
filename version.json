@@ -1,7 +1,8 @@
 {
   "versionCode": 1,
-  "versionName": "1.1",
+  "versionName": "1.0",
   "updateUrl": "https://github.com/AaronTiok/Application/raw/main/LTS/LTSControl_v1.1.apk",
   "updateLog": "1. 优化了线轴动画速度\n2. 修复了已知问题"
 }
+
 
