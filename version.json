@@ -1,9 +1,10 @@
 {
-  "versionCode": 2,
+  "versionCode": 1,
   "versionName": "1.1",
   "updateUrl": "https://github.com/AaronTiok/LTS/releases/download/v1.1/LTSControl.apk",
   "updateLog": "1. 优化了电机控制逻辑\n2. 修复了状态栏同步问题"
 }
+
 
 
 
