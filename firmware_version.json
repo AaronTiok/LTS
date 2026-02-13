@@ -1,7 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "updateUrl": "https://github.com/AaronTiok/LTS/firmware",
   "updateLog": "1. 优化了电机堵转检测算法\n2. 修复了 Wi-Fi 断开后无法自动重连的问题\n3. 提高了固件升级的稳定性"
 }
+
 
 
