@@ -1,0 +1,27 @@
+
+{
+  "version": "1.0",
+  "codes": [
+    {
+      "code": "CODE-AAAA-2026-XXXX",
+      "deviceBinding": null,
+      "expiryDate": "2026-12-31",
+      "isActive": true,
+      "description": "标准版激活码"
+    },
+    {
+      "code": "CODE-PRO-2026-YYYY",
+      "deviceBinding": null,
+      "expiryDate": "2027-12-31",
+      "isActive": true,
+      "description": "专业版激活码"
+    },
+    {
+      "code": "CODE-VIP-2026-ZZZZ",
+      "deviceBinding": null,
+      "expiryDate": "2028-12-31",
+      "isActive": true,
+      "description": "VIP版激活码"
+    }
+  ]
+}
